@@ -1,0 +1,7 @@
+{
+  "name": "Ponto Digital e Banco de Horas",
+  "description": "Um aplicativo de ponto digital para registrar as horas de trabalho, pausas e calcular o banco de horas. Acompanhe sua jornada de trabalho diária de forma fácil e intuitiva.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
